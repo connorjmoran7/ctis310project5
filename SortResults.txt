@@ -1,0 +1,39 @@
+I've run the program several times to get consistent data regarding the sorting methods.
+
+As for Guitars, they are intended to be sorted by brand. Here is the result of three tests:
+
+Test 1:
+
+Pre-Sorting:
+Guitar 1: PRS
+Guitar 2: Fender
+Guitar 3: Gibson
+
+After sorting:
+Guitar 1: Fender
+Guitar 2: Gibson
+Guitar 3: PRS
+
+Test 2:
+
+Pre-Sorting:
+Guitar 1: Ibanez
+Guitar 2: PRS
+Guitar 3: Ibanez
+
+After sorting:
+Guitar 1: Ibanez
+Guitar 2: Ibanez
+Guitar 3: PRS
+
+Test 3:
+
+Pre-Sorting:
+Guitar 1: PRS
+Guitar 2: Epiphone
+Guitar 3: PRS
+
+After sorting:
+Guitar 1: Epiphone
+Guitar 2: PRS
+Guitar 3: PRS
